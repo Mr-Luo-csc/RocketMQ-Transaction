@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f8e98ef-cf8d-4009-8016-8b790b9bc951" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/maven/maven_repository" />
+        <option name="mavenHome" value="/usr/local/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fIqaDD28VSYGQyqogbHM73J7cf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.3045977" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzp.shoppingcarservice.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lzp.shoppingcarservice.rocketmq" />
+      <recent name="com.lzp.orderservice.model" />
+      <recent name="com.lzp.orderservice.dao" />
+      <recent name="com.lzp.orderservice.service" />
+      <recent name="com.lzp.orderservice.rocketmq" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="order-service" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShoppingCarServiceApplication">
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzp.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCarServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shoppingcar-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzp.shoppingcarservice.ShoppingCarServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.ShoppingCarServiceApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f8e98ef-cf8d-4009-8016-8b790b9bc951" name="Default Changelist" comment="" />
+      <created>1595916015582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595916015582</updated>
+      <workItem from="1595916018190" duration="7655000" />
+      <workItem from="1595925515640" duration="6535000" />
+      <workItem from="1595985955855" duration="26545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" width="1132" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596079857531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1132" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1596079857531" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1596088838569">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1596088838569" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom" timestamp="1596078585369">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596078585369" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596013032968" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596018852461" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center" timestamp="1596078585367">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596078585367" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596013032965" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596018852455" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left" timestamp="1596078585366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596078585366" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596013032963" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596018852453" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right" timestamp="1596078585368">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596078585368" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596013032966" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596018852459" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1596072827009">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596072827009" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596013714325" />
+    <state width="1398" height="200" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596018851917" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center" timestamp="1596072827008">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596072827008" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1596013714322" />
+    <state width="1398" height="200" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1596018851915" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left" timestamp="1596072827007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596072827007" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1596013714313" />
+    <state width="1398" height="200" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1596018851906" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right" timestamp="1596072827009">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596072827009" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1596013714324" />
+    <state width="1398" height="200" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1596018851916" />
+    <state width="1398" height="257" key="GridCell.Tab.2.bottom" timestamp="1596072827011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596072827011" />
+    <state width="1398" height="254" key="GridCell.Tab.2.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596013032561" />
+    <state width="1398" height="200" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596018851924" />
+    <state width="1398" height="257" key="GridCell.Tab.2.center" timestamp="1596072827010">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1596072827010" />
+    <state width="1398" height="254" key="GridCell.Tab.2.center/0.23.1440.822@0.23.1440.822" timestamp="1596013032554" />
+    <state width="1398" height="200" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1596018851920" />
+    <state width="1398" height="257" key="GridCell.Tab.2.left" timestamp="1596072827010">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1596072827010" />
+    <state width="1398" height="254" key="GridCell.Tab.2.left/0.23.1440.822@0.23.1440.822" timestamp="1596013032552" />
+    <state width="1398" height="200" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1596018851919" />
+    <state width="1398" height="257" key="GridCell.Tab.2.right" timestamp="1596072827011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1596072827011" />
+    <state width="1398" height="254" key="GridCell.Tab.2.right/0.23.1440.822@0.23.1440.822" timestamp="1596013032559" />
+    <state width="1398" height="200" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1596018851922" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1595927783724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1595927783724" />
+    <state x="168" y="34" width="1024" height="822" key="SettingsEditor" timestamp="1595929449835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="168" y="34" width="1024" height="822" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595929449835" />
+    <state x="150" y="147" key="new project wizard" timestamp="1595917255799">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="150" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1595917255799" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1596018781521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596018781521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/controller/OrderController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/rocketmq/OrderTransactionListener.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/rocketmq/OrderTransactionListener.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/service/impl/OrderServiceImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shoppingcar-service/src/main/java/com/lzp/shoppingcarservice/rocketmq/OrderListener.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/rocketmq/OrderTransactionListener.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/lzp/orderservice/service/impl/TransactionLogServiceImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shoppingcar-service/src/main/java/com/lzp/shoppingcarservice/service/impl/GoodServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
